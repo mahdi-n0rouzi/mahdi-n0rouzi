@@ -1,3 +1,9 @@
+<div align="center">
+    <img width=300 src="https://github.com/mahdi-n0rouzi/mahdi-n0rouzi/blob/main/linux-tux.gif"/>    
+    <br/>
+    <br/>
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a> -->
+</div>
 # 💫 About Me:
 I’m a Linux Administrator who helps businesses build secure, fast, and reliable infrastructures.<br><br>🔹 I have hands-on experience in server administration, security hardening, and containerized deployments using Docker.  <br>🔹 I’m LPIC-3 Security certified, with a strong background in LPIC-2 and Network+.  <br>🔹 My focus is on performance optimization, automation, and secure Linux environments.<br><br>💡 What makes me different?  <br>I don’t just install servers — I design infrastructures that are stable, scalable, and attack-resistant.<br><br>📈 Recently, I’ve improved system uptime by 40% and reduced server risks through advanced hardening techniques.<br><br>📩 Let’s connect if you need a trusted Linux Administrator to secure and optimize your environment.
 
