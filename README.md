@@ -6,8 +6,24 @@
 </div>
 
 # 💫 About Me:
-I’m a Linux Administrator who helps businesses build secure, fast, and reliable infrastructures.<br><br>🔹 I have hands-on experience in server administration, security hardening, and containerized deployments using Docker.  <br>🔹 I’m LPIC-3 Security certified, with a strong background in LPIC-2 and Network+.  <br>🔹 My focus is on performance optimization, automation, and secure Linux environments.<br><br>💡 What makes me different?  <br>I don’t just install servers — I design infrastructures that are stable, scalable, and attack-resistant.<br><br>📈 Recently, I’ve improved system uptime by 40% and reduced server risks through advanced hardening techniques.<br><br>📩 Let’s connect if you need a trusted Linux Administrator to secure and optimize your environment.
+Hi, I’m Mahdi Norouzi 👋
+An IT student who somehow fell in love with Linux… and is still waiting for it to love him back 🐧💔
 
+I’m deeply interested in Linux and cybersecurity — basically, I enjoy breaking things just to understand how they work (and hopefully fixing them before anyone notices).
+
+My skill set includes:
+
+LPIC-1, LPIC-2, LPIC-3 (yes, I kept going… no one stopped me 😄)
+Network+ & Security+ (because why not secure the chaos?)
+Docker (I put things in containers like a professional hoarder)
+OWASP (I know how things get hacked… don’t worry, I’m one of the good guys 😎)
+Git (commit, push, panic, repeat)
+Python (automating my laziness since day one)
+HTML, CSS, JS (making things look good… sometimes)
+
+Currently on a journey to become a Linux wizard 🧙‍♂️ (still stuck at installing packages without breaking the system).
+If it runs on Linux, I’ll probably try to tweak it… and possibly break it.
+<img width=80 src="https://github.com/mahdi-n0rouzi/mahdi-n0rouzi/blob/main/linux-tux.gif"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdinorozi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dekomo443@gmail.com) 
